@@ -215,11 +215,13 @@ public class SimpleHttpServer {
                 os.write(responseBytes);
             } catch (Exception e) {
                 Logger.getLogger(SimpleHttpServer.class.getName()).log(Level.SEVERE, null, e);
+                System.out.println("");
             }
         }
                  
         
     }    
+    
      
 }
 
