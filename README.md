@@ -9,23 +9,23 @@ The SimpleHttpServer class creates a lightweight server that listens for HTTP re
 
 ## Features
 
-**• HTTP Server:** Runs on port 8080 and handles requests to /myendpoint.
+📌 **HTTP Server:** Runs on port 8080 and handles requests to /myendpoint.
 
-**• Request Handling:** Supports GET and POST methods with custom responses, and returns 404 or 405 for unsupported paths or methods.
+📌 **Request Handling:** Supports GET and POST methods with custom responses, and returns 404 or 405 for unsupported paths or methods.
 
-**• Response Delivery:** Sends plain-text responses with appropriate HTTP status codes.
+📌 **Response Delivery:** Sends plain-text responses with appropriate HTTP status codes.
 
-**• Exception Handling:** Manages IOException during server setup and request processing.
+📌 **Exception Handling:** Manages IOException during server setup and request processing.
 
 ---
 
 ## Prerequisites
 
-Java Development Kit (JDK): Version 21.
+📌 Java Development Kit (JDK): Version 21.
 
-NetBeans IDE: Version 18 or higher (optional, for development).
+📌 NetBeans IDE: Version 18 or higher (optional, for development).
 
-Git: For cloning and managing the repository.
+📌 Git: For cloning and managing the repository.
 
 ---
 
