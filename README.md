@@ -29,3 +29,26 @@ The SimpleHttpServer class creates a lightweight server that listens for HTTP re
 
 ---
 
+# Setup Instructions
+
+**1. Clone the Repository**
+
+Clone this repository to your local machine:
+
+git clone https://github.com/AnjanaRanasinghe/SimpleHttpServer.git
+
+cd SimpleHttpServer
+
+**2. Open in NetBeans**
+
+Launch NetBeans IDE.
+
+Go to File > Open Project.
+
+Navigate to the cloned repository folder and select it.
+
+Click Open Project.
+
+---
+
+
