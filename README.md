@@ -51,4 +51,12 @@ Click Open Project.
 
 ---
 
+## License
 
+This project is distributed under the MIT License. Feel free to use it as you wish, and contributions are always welcome!
+
+---
+
+## Contact
+
+For any inquiries, please contact [anjana.20231160@iit.ac.lk] or open an issue on GitHub.
